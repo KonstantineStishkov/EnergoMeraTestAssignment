@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BracketsRightSequence\BracketsRightSequence.csproj" />
+  </ItemGroup>
+
 </Project>
